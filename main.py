@@ -1,8 +1,14 @@
 #1. Create a greeting for your program.
 print("Welcome to the band generator !!!")
 #2. Ask the user for the city that they grew up in.
+
 print("What the city that you from?")
 city = input()
+
+#or
+
+#city = input("What the city that you from?\n")
+
 #3. Ask the user for the name of a pet.
 print("What the name of your favorite pet")
 pet = input()
